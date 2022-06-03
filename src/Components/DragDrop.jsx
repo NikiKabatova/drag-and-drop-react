@@ -10,19 +10,11 @@ const PictureList = [
   },
   {
     id: 2,
-    url: 'https://cdn.custom-cursor.com/packs/5896/cute-unicorn-pack.png',
+    url: 'https://cdn.pixabay.com/photo/2019/03/03/08/25/kawaii-4031334_1280.png',
   },
   {
     id: 3,
-    url: 'https://cdn.custom-cursor.com/packs/5896/cute-unicorn-pack.png',
-  },
-  {
-    id: 4,
-    url: 'https://cdn.custom-cursor.com/packs/5896/cute-unicorn-pack.png',
-  },
-  {
-    id: 5,
-    url: 'https://cdn.custom-cursor.com/packs/5896/cute-unicorn-pack.png',
+    url: 'https://cdn.pixabay.com/photo/2014/11/30/14/11/cat-551554_1280.jpg',
   },
 ];
 
