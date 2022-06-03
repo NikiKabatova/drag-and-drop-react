@@ -23,7 +23,7 @@ export const DragDrop = () => {
 
   const [{ isOver }, drop] = useDrop(() => ({
     accept: 'image',
-    drop: (item) => addImageToBoard(item.id),
+    drop: (item) => addImageToBox(item.id),
     collect: (monitor) => ({
       isOver: !!monitor.isOver(),
     }),
